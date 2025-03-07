@@ -35,27 +35,15 @@ To get started with the project, follow these steps:
     open NewsApp.xcodeproj
     ```
 
-3. **Install dependencies** (if any) using CocoaPods or Swift Package Manager.
+3. **Install dependencies** using CocoaPods or Swift Package Manager.
 
-4. **Set up Firebase**:
-   - Create a project on [Firebase Console](https://console.firebase.google.com/).
-   - Enable Firebase Authentication for email/password sign-ins.
-   - Download the `GoogleService-Info.plist` file and add it to your project.
-
-5. **Build and run** the app on a simulator or real device.
+4. **Build and run** the app on a simulator or real device.
 
 ## Screenshots
 
-_(Include some cool screenshots of your app in action!)_
+![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 19 49](https://github.com/user-attachments/assets/25c9a11d-ab54-47c7-9890-9e193b6513bc)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 12 56](https://github.com/user-attachments/assets/69e72008-2dac-444c-88da-1133446e909e)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 19 40](https://github.com/user-attachments/assets/b7c4db9b-85c5-44a8-850e-d710644f9876)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 16 42](https://github.com/user-attachments/assets/94cf7755-611c-4881-9b68-036e413c72a4)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 21 51](https://github.com/user-attachments/assets/8b866616-99d5-4164-9d47-2d7b6c09221c)
 
-## Contributing
-
-I’d love for you to contribute! If you’ve found any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request. :)
-
-## License
-
-This project is licensed under the MIT License - check the [LICENSE](LICENSE) file for more details.
-
----
-
-Feel free to reach out if you have any questions or suggestions!
