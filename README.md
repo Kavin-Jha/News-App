@@ -40,10 +40,10 @@ To get started with the project, follow these steps:
 4. **Build and run** the app on a simulator or real device.
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/25c9a11d-ab54-47c7-9890-9e193b6513bc" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/69e72008-2dac-444c-88da-1133446e909e" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/b7c4db9b-85c5-44a8-850e-d710644f9876" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/94cf7755-611c-4881-9b68-036e413c72a4" width="300" height="auto">
+<img src="https://github.com/user-attachments/assets/8b866616-99d5-4164-9d47-2d7b6c09221c" width="300" height="auto">
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 19 49](https://github.com/user-attachments/assets/25c9a11d-ab54-47c7-9890-9e193b6513bc)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 12 56](https://github.com/user-attachments/assets/69e72008-2dac-444c-88da-1133446e909e)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 19 40](https://github.com/user-attachments/assets/b7c4db9b-85c5-44a8-850e-d710644f9876)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 16 42](https://github.com/user-attachments/assets/94cf7755-611c-4881-9b68-036e413c72a4)
-![Simulator Screen Shot - iPhone 14 Pro - 2023-07-31 at 17 21 51](https://github.com/user-attachments/assets/8b866616-99d5-4164-9d47-2d7b6c09221c)
 
